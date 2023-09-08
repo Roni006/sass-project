@@ -1,0 +1,30 @@
+/**************************
+Theme Name: Sass Project
+Theme Author : Anik Islam
+Author URL: https://www.facebook.com/profile.php?id=100011412910983
+Tags : One page portfolio website, portfolio tamplate
+Description:  This is a portfolio HTML tamplate to create any kinds of portfolio website
+
+***************************/
+
+// All of initial files
+
+// base files
+@import 'base/variables';
+@import 'base/mixin';
+
+
+// components files
+@import 'components/header';
+@import 'components/footer';
+@import 'components/breadcrumb';
+
+
+// Theme files
+@import 'theme/animation';
+@import 'theme/theme-class';
+
+
+// pages files
+@import 'pages/index-1';
+@import 'pages/index-2';
